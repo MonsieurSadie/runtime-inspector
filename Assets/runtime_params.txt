@@ -1,0 +1,4 @@
+Empty/TestInspectorOfSingleton/Single/value1/2
+Empty/TestInspectorOfSingleton/Int32/value2/5
+Cube/TestInspectorOfInstances/Single/value1/4
+Cube/TestInspectorOfInstances/Vector3/value2/(-1.0, 2.0, 10.0)
